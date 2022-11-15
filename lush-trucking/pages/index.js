@@ -7,6 +7,7 @@ export default function Home() {
     <div>
       <Head>
         <h1>Lush Trucking</h1>
+        <h3>Hello</h3>
       </Head>
     </div>
   )

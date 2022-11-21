@@ -70,12 +70,8 @@ export const Feature = () => {
                 Our team of highly skilled drivers have over fifty years of combined experience.
               </p>
             </div>
-          </div>
-          <div className="p-8 border-b lg:border-b-0 lg:border-r">
-            <div className="max-w-md text-center">
               </div>
             </div>
           </div>
-        </div>
     );
   };

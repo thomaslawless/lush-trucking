@@ -43,7 +43,7 @@ export const Pricing = () => {
           <div className="flex flex-col transition duration-300 bg-white rounded shadow-sm hover:shadow">
             <div className="relative w-full h-48">
               <img
-                src="?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                src="https://i.imgur.com/nC5TUD5.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
                 className="object-cover w-full h-full rounded-t"
                 alt="Plan"
               />
@@ -68,7 +68,7 @@ export const Pricing = () => {
           <div className="flex flex-col transition duration-300 bg-white rounded shadow-sm hover:shadow">
             <div className="relative w-full h-48">
               <img
-                src="?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                src="https://i.imgur.com/flD06AW.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
                 className="object-cover w-full h-full rounded-t"
                 alt="Plan"
               />
@@ -93,7 +93,7 @@ export const Pricing = () => {
           <div className="flex flex-col transition duration-300 bg-white rounded shadow-sm hover:shadow">
             <div className="relative w-full h-48">
               <img
-                src="?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
+                src="https://i.imgur.com/Sd6Bz0F.jpg?auto=compress&amp;cs=tinysrgb&amp;dpr=2&amp;h=750&amp;w=1260"
                 className="object-cover w-full h-full rounded-t"
                 alt="Plan"
               />
